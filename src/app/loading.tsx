@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const loading = () => {
+export default function loading() {
     return (
         <div>loading...</div>
     )
